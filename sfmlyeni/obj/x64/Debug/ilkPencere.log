@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: Ara dizin (C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\..\..\obj\x64\Debug\) başka bir projeden (birinciProje.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Uygulama.cpp
+C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\ilkPencere\Uygulama.cpp(27,21): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\ilkPencere\Uygulama.cpp(28,34): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\ilkPencere\Uygulama.cpp(28,24): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\ilkPencere\Uygulama.cpp(29,39): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\ilkPencere\Uygulama.cpp(29,29): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ilkPencere.vcxproj -> C:\Users\Lenovo\Desktop\sfmlyeni\bin\x64\Debug\ilkPencere.exe

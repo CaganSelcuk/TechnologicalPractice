@@ -1,0 +1,3 @@
+﻿  Pencere.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: çözümlenmemiş dış sembol main için "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) işlevinde başvuruldu
+C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\x64\Debug\Pencere Sinifi.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar

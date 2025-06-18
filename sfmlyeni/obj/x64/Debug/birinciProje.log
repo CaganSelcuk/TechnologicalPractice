@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: Ara dizin (C:\Users\Lenovo\Desktop\sfmlyeni\projeler\01-Ilk uygulama\..\..\obj\x64\Debug\) başka bir projeden (ilkPencere.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  birinci.cpp
+  birinciProje.vcxproj -> C:\Users\Lenovo\Desktop\sfmlyeni\bin\x64\Debug\birinciProje.exe

@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Kaynak2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Kaynak2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Yilan.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Yilan.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Yilan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Yilan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Uygulama.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Uygulama.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Uygulama.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Uygulama.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Pencere.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Pencere.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Pencere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Pencere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\OyunSonuEkrani.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\OyunSonuEkrani.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\OyunSonuEkrani.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\OyunSonuEkrani.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Izgara.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Izgara.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Izgara.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Izgara.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Hucre.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Hucre.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Hucre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Hucre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\FonksiyonTurleri.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\FonksiyonTurleri.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Cizilebilir.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Cizilebilir.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Cizilebilir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A548F798-51FB-4829-B85D-D3B6AE55CB23}|ilkPencere\\ilkPencere.vcxproj|solutionrelative:ilkPencere\\Cizilebilir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\functional||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OyunSonuEkrani.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\OyunSonuEkrani.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\OyunSonuEkrani.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\OyunSonuEkrani.cpp",
+              "RelativeToolTip": "ilkPencere\\OyunSonuEkrani.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T18:11:09.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OyunSonuEkrani.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\OyunSonuEkrani.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\OyunSonuEkrani.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\OyunSonuEkrani.hpp",
+              "RelativeToolTip": "ilkPencere\\OyunSonuEkrani.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T18:10:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pencere.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Pencere.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Pencere.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Pencere.cpp",
+              "RelativeToolTip": "ilkPencere\\Pencere.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T17:19:53.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pencere.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Pencere.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Pencere.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Pencere.hpp",
+              "RelativeToolTip": "ilkPencere\\Pencere.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T17:19:39.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Uygulama.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Uygulama.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Uygulama.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Uygulama.cpp",
+              "RelativeToolTip": "ilkPencere\\Uygulama.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T18:11:21.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Uygulama.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Uygulama.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Uygulama.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Uygulama.hpp",
+              "RelativeToolTip": "ilkPencere\\Uygulama.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T18:11:26.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yilan.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Yilan.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Yilan.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Yilan.cpp",
+              "RelativeToolTip": "ilkPencere\\Yilan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T17:17:05.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yilan.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Yilan.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Yilan.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Yilan.hpp",
+              "RelativeToolTip": "ilkPencere\\Yilan.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T17:16:13.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kaynak.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Kaynak.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Kaynak.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Kaynak.cpp",
+              "RelativeToolTip": "ilkPencere\\Kaynak.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T20:39:44.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kaynak2.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Kaynak2.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Kaynak2.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Kaynak2.cpp",
+              "RelativeToolTip": "ilkPencere\\Kaynak2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T21:25:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Izgara.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Izgara.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Izgara.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Izgara.hpp",
+              "RelativeToolTip": "ilkPencere\\Izgara.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T20:56:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Izgara.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Izgara.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Izgara.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Izgara.cpp",
+              "RelativeToolTip": "ilkPencere\\Izgara.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T17:58:57.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hucre.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Hucre.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Hucre.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Hucre.hpp",
+              "RelativeToolTip": "ilkPencere\\Hucre.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T20:56:51.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hucre.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Hucre.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Hucre.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Hucre.cpp",
+              "RelativeToolTip": "ilkPencere\\Hucre.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T17:52:24.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FonksiyonTurleri.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\FonksiyonTurleri.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\FonksiyonTurleri.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\FonksiyonTurleri.hpp",
+              "RelativeToolTip": "ilkPencere\\FonksiyonTurleri.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T20:56:48.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cizilebilir.hpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Cizilebilir.hpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Cizilebilir.hpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Cizilebilir.hpp",
+              "RelativeToolTip": "ilkPencere\\Cizilebilir.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T20:56:44.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cizilebilir.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Cizilebilir.cpp",
+              "RelativeDocumentMoniker": "ilkPencere\\Cizilebilir.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\sfmlyeni\\projeler\\01-Ilk uygulama\\ilkPencere\\Cizilebilir.cpp",
+              "RelativeToolTip": "ilkPencere\\Cizilebilir.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T20:56:43.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "functional",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\functional",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\functional",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\functional",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\functional",
+              "ViewState": "AgIAAJkDAAAAAAAAAAAawJ0DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-16T18:32:43.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
