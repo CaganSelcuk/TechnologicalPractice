@@ -1,4 +1,4 @@
-# TechnologicalPractice
+# Technological Practice
 # Игра "Змейка" на C++ с использованием SFML
 
 ---
